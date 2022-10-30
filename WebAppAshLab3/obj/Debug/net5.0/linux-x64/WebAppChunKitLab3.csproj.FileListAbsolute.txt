@@ -1,0 +1,303 @@
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\appsettings.Development.json
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\appsettings.json
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.deps.json
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.runtimeconfig.json
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.runtimeconfig.dev.json
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ref\WebAppChunKitLab3.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.pdb
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.Views.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.Views.pdb
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Amazon.Extensions.Configuration.SystemsManager.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\AWSSDK.AppConfig.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\AWSSDK.Core.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\AWSSDK.SimpleSystemsManagement.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Humanizer.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.CodeAnalysis.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Data.Sqlite.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\SQLitePCLRaw.core.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Composition.AttributedModel.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Composition.Convention.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Composition.Hosting.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Composition.Runtime.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Composition.TypedParts.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Runtime.Caching.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\libe_sqlite3.so
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.csprojAssemblyReference.cache
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.AssemblyInfoInputs.cache
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.AssemblyInfo.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.csproj.CoreCompileInputs.cache
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.RazorAssemblyInfo.cache
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.RazorAssemblyInfo.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\staticwebassets\WebAppChunKitLab3.StaticWebAssets.Manifest.cache
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\staticwebassets\WebAppChunKitLab3.StaticWebAssets.xml
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\scopedcss\bundle\WebAppChunKitLab3.styles.css
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.TagHelpers.input.cache
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.TagHelpers.output.cache
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.RazorCoreGenerate.cache
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Logins\Create.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Logins\Delete.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Logins\Details.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Logins\Edit.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Logins\Index.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.RazorTargetAssemblyInfo.cache
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.RazorTargetAssemblyInfo.cs
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.Views.pdb
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.csproj.CopyComplete
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\ref\WebAppChunKitLab3.dll
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.pdb
+C:\Users\Kit\Documents\E.CENTENNIAL\2021F\API Engineering & Cloud Comp  (Combined) COMP306C393\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.genruntimeconfig.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\appsettings.Development.json
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\appsettings.json
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.deps.json
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.runtimeconfig.json
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.runtimeconfig.dev.json
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ref\WebAppChunKitLab3.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.pdb
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.Views.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\WebAppChunKitLab3.Views.pdb
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Amazon.Extensions.Configuration.SystemsManager.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\AWSSDK.AppConfig.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\AWSSDK.Core.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\AWSSDK.SimpleSystemsManagement.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Humanizer.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.CodeAnalysis.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Data.Sqlite.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\SQLitePCLRaw.core.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Composition.AttributedModel.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Composition.Convention.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Composition.Hosting.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Composition.Runtime.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Composition.TypedParts.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Runtime.Caching.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\libe_sqlite3.so
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.csprojAssemblyReference.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.AssemblyInfoInputs.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.AssemblyInfo.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.csproj.CoreCompileInputs.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.RazorAssemblyInfo.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.RazorAssemblyInfo.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\staticwebassets\WebAppChunKitLab3.StaticWebAssets.Manifest.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\staticwebassets\WebAppChunKitLab3.StaticWebAssets.xml
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\scopedcss\bundle\WebAppChunKitLab3.styles.css
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.TagHelpers.input.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.TagHelpers.output.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.RazorCoreGenerate.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Logins\Create.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Logins\Delete.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Logins\Details.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Logins\Edit.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Logins\Index.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.RazorTargetAssemblyInfo.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.RazorTargetAssemblyInfo.cs
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.Views.pdb
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.csproj.CopyComplete
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\ref\WebAppChunKitLab3.dll
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.pdb
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\obj\Debug\net5.0\linux-x64\WebAppChunKitLab3.genruntimeconfig.cache
+C:\Users\Kit\source\repos\lab3\301158152_ChunKit_Lab3\WebAppChunKitLab3\WebAppChunKitLab3\bin\Debug\net5.0\linux-x64\aws-beanstalk-tools-defaults.json

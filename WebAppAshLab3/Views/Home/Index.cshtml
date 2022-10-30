@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using Microsoft.AspNetCore.Http;
+
+
+
+@{
+    if (@Context.Session.GetString("username") != null)
+    {
+    <div>
+        Welcome @Context.Session.GetString("username")
+        <br>
+        <a asp-controller="logins" asp-action="logout">Logout</a>
+
+    </div>
+
+    }
+    else
+    {
+        <div class="text-center">
+            <h1 class="display-4">Welcome</h1>
+            <form method="post" asp-controller="Logins" asp-action="Login">
+                <table border="0" cellpadding="2" cellspacing="2">
+                    <tr>
+                        <td>Username</td>
+                        <td><input type="text" name="username" value="Joey@mail.com"></td>
+                    </tr>
+                    <tr>
+                        <td>Password</td>
+                        <td><input type="password" name="password" value="password"></td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td><input type="submit" value="Login"></td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    }
+}
+       

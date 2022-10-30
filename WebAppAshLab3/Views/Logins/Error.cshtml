@@ -1,0 +1,15 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Success</title>
+</head>
+<body>
+
+    <h3>Error Page</h3>
+    @ViewBag.error
+    <br>
+    <a asp-controller="home" asp-action="index">Login again</a>
+</body>
+</html>
